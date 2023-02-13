@@ -1,0 +1,1 @@
+export const FIELD_REQUIRED = 'the {0} field is required';
