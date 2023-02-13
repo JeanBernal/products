@@ -1,6 +1,6 @@
 # products
 
-###Para iniciar el proyecto, ejecutar el siguiente comando;
+### Para iniciar el proyecto, ejecutar el siguiente comando;
 
 ## npm i
 
